@@ -1,0 +1,8 @@
+BeautifulSoup4
+requests
+flask
+flask_cors
+html5lib
+firebase_admin
+telepot
+gpiozero
